@@ -23,6 +23,7 @@ esphome:
   name: $name
   platform: ESP8266
   board: d1_mini
+  arduino_version: 2.7.4
 
   # Automatically add the mac address to the name
   # so you can use a single firmware for all devices
